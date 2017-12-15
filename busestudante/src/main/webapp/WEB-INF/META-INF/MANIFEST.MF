@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: magsystems2
+Bundle-SymbolicName: magsystems2
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.magsystems2,
+ br.com.magsystems2.controllers,
+ br.com.magsystems2.model,
+ br.com.magsystems2.repository
